@@ -2,9 +2,11 @@
 
 **Simplifying the web. Amplifying your business.**
 
-Eloqubit is a remote-first web and software development agency focused on building **stable, scalable, long-lived systems**.
+Eloqubit is a remote-first web and software development agency focused on building
+**stable, scalable, long-lived systems**.
 
-We work with companies that treat software as infrastructure — not a disposable deliverable.
+We work with teams that treat software as infrastructure — not as a disposable
+deliverable.
 
 ---
 
@@ -15,15 +17,15 @@ We design and build software systems with an emphasis on:
 - Clear architecture and explicit tradeoffs
 - Maintainability over premature complexity
 - Performance, reliability, and scalability
-- Long-term technical partnerships
+- Long-term technical ownership
 
-Our work spans:
+Our work typically includes:
 
 - Custom web applications
 - Backend systems and APIs
 - Architecture design and refactoring
 - Performance and stability improvements
-- Ongoing engineering ownership
+- Ongoing engineering partnerships
 
 ---
 
@@ -31,11 +33,11 @@ Our work spans:
 
 Most software problems are not tooling problems — they are **systems problems**.
 
-We optimize for:
+Our approach prioritizes:
+- Thinking before building
 - Fewer, better decisions
 - Senior engineers over large teams
-- Thinking before building
-- Calm, documented execution
+- Calm, deliberate execution
 
 We intentionally avoid:
 - Buzzword-driven stacks
@@ -71,13 +73,14 @@ Each exists to explore, validate, or document an idea.
 
 ---
 
-## Tech Stack (Contextual, Not Dogmatic)
+## Technology Stack
 
-We choose tools based on constraints, not trends.  
+We choose tools based on constraints, not trends.
+
 Commonly used technologies include:
 
-- TypeScript, JavaScript
-- React, Next.js
+- TypeScript and JavaScript
+- React and Next.js
 - Node.js, Java, Spring Boot
 - SQL and NoSQL databases
 - Cloud-native infrastructure
@@ -90,7 +93,7 @@ Specific choices vary by project.
 
 Eloqubit operates as an engineering partner, not a generic dev shop.
 
-We are a good fit if you:
+We are a good fit for teams that:
 - Care about long-term maintainability
 - Want technical decisions explained clearly
 - Prefer fewer meetings and more thinking
@@ -103,4 +106,4 @@ We are a good fit if you:
 Website: https://eloqubit.com  
 LinkedIn: https://linkedin.com/company/eloqubit
 
-For project inquiries, reach out via the website.
+For project inquiries, please reach out via the website.
